@@ -3,5 +3,6 @@
   "clangd.arguments": [
     "--compile-commands-dir=${workspaceFolder}/tools/build",
     "--function-arg-placeholders=0"
-  ]
+  ],
+  "cmake.sourceDirectory": "/Users/siddhantsingh/Documents/GitHub/tccl/tools/archive/tests"
 }
